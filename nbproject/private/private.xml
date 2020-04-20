@@ -3,10 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/ThanhMickey/Documents/NetBeansProjects/NguyenVanThanh_58131405_BaiTap_StrategyPattern/src/baitap1/Context.java</file>
-            <file>file:/C:/Users/ThanhMickey/Documents/NetBeansProjects/NguyenVanThanh_58131405_BaiTap_StrategyPattern/src/baitap1/Cong.java</file>
-            <file>file:/C:/Users/ThanhMickey/Documents/NetBeansProjects/NguyenVanThanh_58131405_BaiTap_StrategyPattern/src/baitap1/BaiTap1Main.java</file>
-            <file>file:/C:/Users/ThanhMickey/Documents/NetBeansProjects/NguyenVanThanh_58131405_BaiTap_StrategyPattern/src/baitap1/Tinh.java</file>
+            <file>file:/C:/Users/ThanhMickey/Documents/NetBeansProjects/NguyenVanThanh_58131405_BaiTap_StrategyPattern/src/baitap2/GioHang.java</file>
+            <file>file:/C:/Users/ThanhMickey/Documents/NetBeansProjects/NguyenVanThanh_58131405_BaiTap_StrategyPattern/src/baitap2/BaiTap2Main.java</file>
+            <file>file:/C:/Users/ThanhMickey/Documents/NetBeansProjects/NguyenVanThanh_58131405_BaiTap_StrategyPattern/src/baitap2/ThanhToanCOD.java</file>
+            <file>file:/C:/Users/ThanhMickey/Documents/NetBeansProjects/NguyenVanThanh_58131405_BaiTap_StrategyPattern/src/baitap2/ThanhToanOnline.java</file>
         </group>
     </open-files>
 </project-private>
